@@ -10,8 +10,10 @@
                 "curseforge": "https://curseforge.com/"
             },
             "minor": true
-        }
-        {
+        } 
+    }
+    {
+      {
         "id": "1.0.1",
         "releasedAt": 1707979500000,
         "promotions": {
