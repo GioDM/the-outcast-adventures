@@ -1,4 +1,4 @@
-&bWelcome to Alpha 1.0.1!&r
+&lWelcome to Alpha 1.0.1!&r
 
 In this release I edited many configs so that
 the modpack will function more like how I imagined
@@ -7,12 +7,12 @@ There are still things to be worked on, some menu's
 need to get a &bBIG&r revamp.
 
 
-&bWhat has changed?&r
+&lWhat has changed?&r
 
  - Surviving the first couple of nights won't
 be as difficult as compared to A 1.0.0!
- - Changed out &bSpice of life: Carrot Edition&r
-for &bSpice of life: Onion Edition&r. This means
+ - Changed out &lSpice of life: Carrot Edition&r
+for &lSpice of life: Onion Edition&r. This means
 that you need to keep eating more balanced instead
 of trying out different food. You'll need to get
 cooking different meals now!
