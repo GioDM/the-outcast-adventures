@@ -1,7 +1,7 @@
 # Welcome to Alpha 1.0.1!
 
 In this release I edited many configs so that the modpack will function more like how I imagined it for the release!
-There are still things to be worked on, the main menu (and some other menu's) need to get a **BIG** revamp.
+There are still things to be worked on, some menu's need to get a **BIG** revamp, quests are worked on etc.
 
 
 # What has changed?
