@@ -18,7 +18,7 @@ instead of trying out different food. You'll
 need to get cooking different meals now!
  - Added the magic mod &b&lMahou Tsukai&r!
  - Changed the recipes for &b&lSophisticated
-&b&lBackpacks&t! They won't be as easy
+&b&lBackpacks&r! They won't be as easy
 to make now!
  - Added a recipe to get &b&lRose Quartz&r coming
 from the &b&lRose Quartz Chunks&r that you can 
