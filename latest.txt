@@ -4,7 +4,8 @@ In this release I edited many configs so that
 the modpack will function more like how I
 imagined it for the release!
 There are still things to be worked on, some
-menu's need to get a &lBIG&r revamp.
+menu's need to get a &lBIG&r revamp,
+quests are worked on etc.
 
 
 &lWhat has changed?&r
