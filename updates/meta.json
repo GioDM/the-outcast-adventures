@@ -21,6 +21,16 @@
             },
             "minor": true
         }
-    }
+    },
+    {
+      "id": "1.0.2",
+      "releasedAt": 987654321098765,
+      "promotions": {
+          "downloads": {
+              "curseforge": "https://curseforge.com/"
+          },
+          "minor": true
+      }
+  }
   ]
 }
